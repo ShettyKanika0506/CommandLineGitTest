@@ -10,6 +10,7 @@ System.out.println("Editing the program")
 		d.method();
 		} catch(Exception e)
 		{
+			System.out.println("Hello");
 			e.printStackTrace();
 		}
 }
